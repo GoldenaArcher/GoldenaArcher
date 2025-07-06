@@ -8,12 +8,17 @@ gantt
     dateFormat  YYYY-MM
     axisFormat  %b %Y
 
-    section Companies
     Daniujuntuan Internship                    :internship, 2016-05, 2016-08
     Yuedong Tech (Full Stack Engineer)         :yuedong, 2016-09, 2019-07
-    Infosys Ltd (Full Stack Stack)             :infy, 2019-07, 2021-07
+
+    section Infosys Ltd
+    Infosys Ltd (Full Stack Engineer)             :infy, 2019-07, 2021-07
+    └─ Toll Transitions(Frontend Engineer)        :toll, 2019-08, 2020-04
+    └─ Pepsi Co. (Full Stack Engineer)            :projB, 2020-05, 2021-07
+
     Peapod Digital Labs (Full Stack Engineer)  :pdl, 2021-08, 2022-04
     Nasdaq (Full Stack Engineer)               :nasdaq, 2022-05, 2025-06
+
 ```
 
 ## My Stats 📊
