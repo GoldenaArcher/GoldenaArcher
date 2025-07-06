@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi there 👋
+
+I'm a full-stack software engineer passionate about new technologies and always learning.
+
+```mermaid
+gantt
+    title My Career Roadmap 🗺️
+    dateFormat  YYYY-MM
+    axisFormat  %b %Y
+
+    section Companies
+    Daniujuntuan Internship                    :internship, 2016-05, 2016-08
+    Yuedong Tech (Full Stack Engineer)         :yuedong, 2016-09, 2019-07
+    Infosys Ltd (Full Stack Stack)             :infy, 2019-07, 2021-07
+    Peapod Digital Labs (Full Stack Engineer)  :pdl, 2021-08, 2022-04
+    Nasdaq (Full Stack Engineer)               :nasdaq, 2022-05, 2025-06
+```
+
+## My Stats 📊
 
 <!--
 **GoldenaArcher/GoldenaArcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 <table>
   <tr>
@@ -46,7 +63,3 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
-
-
-
