@@ -2,22 +2,26 @@
 
 I'm a full-stack software engineer passionate about new technologies and always learning.
 
+## My Experience 💼
+
 ```mermaid
 gantt
     title My Career Roadmap 🗺️
     dateFormat  YYYY-MM
     axisFormat  %b %Y
 
-    Daniujuntuan Internship                    :internship, 2016-05, 2016-08
-    Yuedong Tech (Full Stack Engineer)         :yuedong, 2016-09, 2019-07
+    section 🎓 Early Career
+    Daniu Juntuan (Intern)                      :intern, 2016-05, 2016-08
+    Yuedong Tech (Full Stack Engineer)          :yuedong, 2016-09, 2019-07
 
-    section Infosys Ltd
-    Infosys Ltd (Full Stack Engineer)             :infy, 2019-07, 2021-07
-    └─ Toll Transitions(Frontend Engineer)        :toll, 2019-08, 2020-04
-    └─ Pepsi Co. (Full Stack Engineer)            :projB, 2020-05, 2021-07
+    section 🚀 Growth & Exploration
+    Infosys Ltd (Full Stack Engineer)           :infy, 2019-07, 2021-07
+    Toll Transitions (Frontend, @Infosys)       :toll, 2019-08, 2020-04
+    PepsiCo (Full Stack, @Infosys)              :pepsi, 2020-05, 2021-07
 
-    Peapod Digital Labs (Full Stack Engineer)  :pdl, 2021-08, 2022-04
-    Nasdaq (Full Stack Engineer)               :nasdaq, 2022-05, 2025-06
+    section 🧭 Senior Engineer
+    Peapod Digital Labs                         :pdl, 2021-08, 2022-04
+    Nasdaq (Full Stack / Lead Track)            :nasdaq, 2022-05, 2025-06
 
 ```
 
